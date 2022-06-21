@@ -1,4 +1,29 @@
-commit 2ecc0b0c5f97091ac03c5ee1f21c50e5fcac1f50 (HEAD -> master)
+commit de2b09485364cc8391d4d20c22a6db4186ff692d (HEAD -> RND, origin/RND)
+Author: AmarKumar-AK <9801amarkumar@gmail.com>
+Date:   Tue Jun 21 16:08:33 2022 +0530
+
+    stashed file 1 from master branch
+
+commit 41fc9a07e14def867a9e06bc02574f7d3670cf52 (origin/master, master)
+Merge: a4ee1bb fbfe1a9
+Author: AmarKumar-AK <9801amarkumar@gmail.com>
+Date:   Tue Jun 21 15:37:40 2022 +0530
+
+    Merge branch 'master' of https://github.com/AmarKumar-AK/practice1
+
+commit a4ee1bb4480b95765ae5c14aefbe1060c1283411
+Author: AmarKumar-AK <9801amarkumar@gmail.com>
+Date:   Tue Jun 21 15:37:20 2022 +0530
+
+    add log.txt
+
+commit fbfe1a99319fe812a16df817260c3adc48646dbb
+Author: AmarKumar-AK <9801amarkumar@gmail.com>
+Date:   Tue Jun 21 13:10:24 2022 +0530
+
+    delete temp.txt
+
+commit 2ecc0b0c5f97091ac03c5ee1f21c50e5fcac1f50
 Merge: a6d0cf4 6e73fac
 Author: AmarKumar-AK <9801amarkumar@gmail.com>
 Date:   Tue Jun 21 13:09:15 2022 +0530
@@ -18,7 +43,7 @@ Date:   Tue Jun 21 12:56:19 2022 +0530
 
     Merge branch 'backend'
 
-commit 5d1e47e494c1366eb9d2d9913f6dc332da2500b8 (origin/backend, backend)
+commit 5d1e47e494c1366eb9d2d9913f6dc332da2500b8
 Author: AmarKumar-AK <9801amarkumar@gmail.com>
 Date:   Tue Jun 21 12:54:42 2022 +0530
 
@@ -30,7 +55,7 @@ Date:   Tue Jun 21 12:54:08 2022 +0530
 
     add second.java
 
-commit 88c0b5bb35611b6a0eaf3e93c191f0f36a1ced41 (origin/UI, UI)
+commit 88c0b5bb35611b6a0eaf3e93c191f0f36a1ced41
 Author: AmarKumar-AK <9801amarkumar@gmail.com>
 Date:   Tue Jun 21 12:51:41 2022 +0530
 
