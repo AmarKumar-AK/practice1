@@ -1,0 +1,73 @@
+commit 2ecc0b0c5f97091ac03c5ee1f21c50e5fcac1f50 (HEAD -> master)
+Merge: a6d0cf4 6e73fac
+Author: AmarKumar-AK <9801amarkumar@gmail.com>
+Date:   Tue Jun 21 13:09:15 2022 +0530
+
+    Merge branch 'master' of https://github.com/AmarKumar-AK/practice1
+
+commit a6d0cf4420783c1bd9ca767a1fc7bf0ead4ff1a5
+Author: AmarKumar-AK <9801amarkumar@gmail.com>
+Date:   Tue Jun 21 13:08:48 2022 +0530
+
+    add temp.txt
+
+commit 6e73fac87f28b568b0795175238134c9888af06f
+Merge: 88c0b5b 5d1e47e
+Author: AmarKumar-AK <9801amarkumar@gmail.com>
+Date:   Tue Jun 21 12:56:19 2022 +0530
+
+    Merge branch 'backend'
+
+commit 5d1e47e494c1366eb9d2d9913f6dc332da2500b8 (origin/backend, backend)
+Author: AmarKumar-AK <9801amarkumar@gmail.com>
+Date:   Tue Jun 21 12:54:42 2022 +0530
+
+    delete second.java
+
+commit a2bd16535f4542eae122d63549f6dbd76d0aeb37
+Author: AmarKumar-AK <9801amarkumar@gmail.com>
+Date:   Tue Jun 21 12:54:08 2022 +0530
+
+    add second.java
+
+commit 88c0b5bb35611b6a0eaf3e93c191f0f36a1ced41 (origin/UI, UI)
+Author: AmarKumar-AK <9801amarkumar@gmail.com>
+Date:   Tue Jun 21 12:51:41 2022 +0530
+
+    delete second.html
+
+commit 0198e7ea3d8681d66f63ca85ae687fca34ade005
+Author: AmarKumar-AK <9801amarkumar@gmail.com>
+Date:   Tue Jun 21 12:50:41 2022 +0530
+
+    add second.html
+
+commit 9380181700704b3e45bf933345146c7221a25c78
+Author: AmarKumar-AK <9801amarkumar@gmail.com>
+Date:   Tue Jun 21 12:45:58 2022 +0530
+
+    update first.java
+
+commit a2923e42d22687118165f32722ad50b01af7914c
+Author: AmarKumar-AK <9801amarkumar@gmail.com>
+Date:   Tue Jun 21 12:43:37 2022 +0530
+
+    add first.java
+
+commit 78b063b84e14824499d80f99ab1785e5b835ace3
+Author: AmarKumar-AK <9801amarkumar@gmail.com>
+Date:   Tue Jun 21 12:41:28 2022 +0530
+
+    update first.html
+
+commit fa7b4d001d94d9ffc411464d8f48ad4fe13c9951
+Author: AmarKumar-AK <9801amarkumar@gmail.com>
+Date:   Tue Jun 21 12:38:49 2022 +0530
+
+    add first.html
+
+commit 7b21f91f3d29eb7333a3f96a84135e8b77c9cbb0
+Author: AmarKumar-AK <9801amarkumar@gmail.com>
+Date:   Tue Jun 21 12:37:17 2022 +0530
+
+    add readme
