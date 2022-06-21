@@ -1,0 +1,29 @@
+commit 88c0b5bb35611b6a0eaf3e93c191f0f36a1ced41 (HEAD -> UI, origin/UI)
+Author: AmarKumar-AK <9801amarkumar@gmail.com>
+Date:   Tue Jun 21 12:51:41 2022 +0530
+
+    delete second.html
+
+commit 0198e7ea3d8681d66f63ca85ae687fca34ade005
+Author: AmarKumar-AK <9801amarkumar@gmail.com>
+Date:   Tue Jun 21 12:50:41 2022 +0530
+
+    add second.html
+
+commit 78b063b84e14824499d80f99ab1785e5b835ace3
+Author: AmarKumar-AK <9801amarkumar@gmail.com>
+Date:   Tue Jun 21 12:41:28 2022 +0530
+
+    update first.html
+
+commit fa7b4d001d94d9ffc411464d8f48ad4fe13c9951
+Author: AmarKumar-AK <9801amarkumar@gmail.com>
+Date:   Tue Jun 21 12:38:49 2022 +0530
+
+    add first.html
+
+commit 7b21f91f3d29eb7333a3f96a84135e8b77c9cbb0
+Author: AmarKumar-AK <9801amarkumar@gmail.com>
+Date:   Tue Jun 21 12:37:17 2022 +0530
+
+    add readme
